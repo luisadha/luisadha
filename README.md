@@ -21,4 +21,6 @@ git clone https://github.com/luisadha/luisadha
 
 cd ~/luisadha
 
+mkdir -p script/
+
 And git clone all repos owned by user luisadha in this directory
