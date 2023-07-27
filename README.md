@@ -23,6 +23,4 @@ cd ~/luisadha
 
 And git clone all repos owned by user luisadha in this directory
 
-# P.S.: Repo ini mungkin versi terbaru, namun tidak dengan repo anak, kode-kode yang mungkin telah usang. Anda harus memperbarui repo anak secara manual.
-
-
+# P.S.: Repo ini 
