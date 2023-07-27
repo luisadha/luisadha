@@ -23,4 +23,6 @@ cd ~/luisadha
 
 And git clone all repos owned by user luisadha in this directory
 
-# P.S.: Repo ini 
+# Kunjungi/Visit
+
+https://codeberg.org/luisadha/luisadha/
