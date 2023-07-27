@@ -1,4 +1,6 @@
-cd script/interactive
+#!/usr/bin/bash
+
+cd ~/luisadha/script/interactive
 
 PS3="Your choice: "
 

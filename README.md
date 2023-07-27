@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Subscribe :
+### Usage/Subscribe :
 
 cd ~
 
@@ -21,7 +21,8 @@ git clone https://github.com/luisadha/luisadha
 
 cd ~/luisadha
 
-mkdir -p script/
-
 And git clone all repos owned by user luisadha in this directory
+
+# P.S.: Repo ini mungkin versi terbaru, namun tidak dengan repo anak, kode-kode yang mungkin telah usang. Anda harus memperbarui repo anak secara manual.
+
 
