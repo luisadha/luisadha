@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 -->
 ## Introdutions
 
- My name is Adharudin you call me luisadha. from West Java, Indonesian.
-I'm Scripter, Tech Entusiast, Linux geeks, FOSS love and peace✌️
+ My name is Adharudin you call me luisadha. from West Java, Indonesian, As an Android developer and enthusiast, I love playing with Android devices, playing doesn't mean gaming here, playing refers to modding, customizing, styling the homescreen, touching up settings, etc. As soon as I get a new Android device, the first thing I do is, install the termux app and root the device if I want to.
+
+Also a Linux enthusiast who has a passion for software development especially free software.
+
+"I see privacy as a key pillar in today's technological advancements, allowing us to browse the digital world safely and worry-free."
 
 ## Device
 ![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white) ![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white) 
