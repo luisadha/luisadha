@@ -19,6 +19,13 @@ Here are some ideas to get you started:
 
 Moto: "I see privacy as a key pillar in today's technological advancements, allowing us to browse the digital world safely and worry-free."
 
+I am currently maintaining a repo
+- Alrc-termux
+- drawercli
+- alfetch
+
+And learning web languages and python.
+
 ## Device
 ![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white) ![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white) 
 
