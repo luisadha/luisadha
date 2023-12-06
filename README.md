@@ -84,11 +84,11 @@ And learning web languages and python.
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/luisadha) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Support
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
 
 
 
-## Subscribe / Usage :
+  ## Subscribe / Usage :
 
 cd ~
 
@@ -98,9 +98,6 @@ cd ~/luisadha
 
 And git clone all repos owned by user luisadha in this directory
 
-Kunjungi/Visit
+Also visit
 [![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white)](https://codeberg.org/luisadha/luisadha/)
 
-or
-
-![Rss](https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white)
