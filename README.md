@@ -21,7 +21,6 @@ Moto: "I see privacy as a key pillar in today's technological advancements, allo
 
 I am currently maintaining a repo
 - Alrc-termux
-- drawercli
 - alfetch
 
 And learning web languages and python.
