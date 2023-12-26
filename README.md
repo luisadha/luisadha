@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 Moto: "I see privacy as a key pillar in today's technological advancements, allowing us to browse the digital world safely and worry-free."
 
 I am currently maintaining a repo
-- Alrc-termux
-- alfetch
+- mana
 
 And learning web languages and python.
 
