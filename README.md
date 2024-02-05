@@ -24,6 +24,9 @@ I am currently maintaining a repo
 
 And learning web languages and python.
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=udl4fvf9djv17x1fhluzq513s&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=udl4fvf9djv17x1fhluzq513s&redirect=true)
+
+
 ## Device
 ![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white) ![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white) 
 
