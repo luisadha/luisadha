@@ -90,7 +90,7 @@ And learning web languages and python.
 
 
 
-  ## Subscribe / Usage :
+  <!--## Subscribe / Usage :
 
 cd ~
 
@@ -99,6 +99,7 @@ git clone https://github.com/luisadha/luisadha
 cd ~/luisadha
 
 And git clone all repos owned by user luisadha in this directory
+-->
 
 Also visit
 
