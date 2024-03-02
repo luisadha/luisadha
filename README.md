@@ -14,16 +14,21 @@ Here are some ideas to get you started:
 -->
 ## Introdutions
 
- My name is Adharudin you call me luisadha. from West Java, Indonesian. As an Scripter and Android enthusiast, I love playing with Android devices, playing doesn't mean gaming here, playing refers to modding, customizing, styling the homescreen, touching up settings or configurations, and etc. As soon as I get a new Android device, the first thing I do is, install the termux app and root the device if I want to.
- Also a Linux enthusiast who has a passion for software development especially free software.
-
+ My name is Adharudin you call me luisadha. from West Java, Indonesian. As an Scripter and Android enthusiast, I'm passionate about Tech, I enjoy playing with Android devices, playing doesn't mean gaming here, playing refers to modding, customizing, styling the homescreen, touching up settings or configurations, and etc. As soon as I get a new Android device, the first thing I do is, install the termux app and root the device if I want to.
+ 
+ I'm always eager to learn new things and meet new people. Looking forward to connecting with you!"
+<!-- Also a Linux enthusiast who has a passion for software development especially free software.
+-->
+<!--
 Moto: "I see privacy as a key pillar in today's technological advancements, allowing us to browse the digital world safely and worry-free."
+-->
 
 I am currently maintaining a repo
 - mana
 
-And learning web languages and python.
+And still learning web languages and python.
 
+<!--
 #### I'm listening..
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=udl4fvf9djv17x1fhluzq513s&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=udl4fvf9djv17x1fhluzq513s&redirect=true)
 
@@ -63,7 +68,7 @@ And learning web languages and python.
 
 ## Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
+-->
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=luisadha&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
