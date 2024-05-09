@@ -28,6 +28,7 @@ I am currently maintaining a repo
 
 And still learning web languages and python.
 
+## 👨‍💻 Quotes
 ```python
 import json
 
