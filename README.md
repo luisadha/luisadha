@@ -28,6 +28,38 @@ I am currently maintaining a repo
 
 And still learning web languages and python.
 
+```python
+import json
+
+class Person:
+    def __init__(self, name, username, age, hobbies, job):
+        self.name = name
+        self.username = username
+        self.age = age
+        self.hobbies = hobbies
+        self.job = job
+
+    def to_dict(self):
+        return {
+            "name": self.name,
+            "username": self.username,
+            "age": self.age,
+            "hobbies": self.hobbies,
+            "job": self.job
+        }
+
+if __name__ == "__main__":
+    me = Person(
+        name="Adharudin",
+        username="luisadha",
+        age=23,
+        job="Software engineer",
+        hobbies=["code", "game", "music"]
+    )
+print(json.dumps(me.to_dict(), indent=2))
+
+```
+
 <!--
 #### I'm listening..
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=udl4fvf9djv17x1fhluzq513s&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=udl4fvf9djv17x1fhluzq513s&redirect=true)
