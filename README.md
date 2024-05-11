@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Introdutions
+## 🙋‍♂️ Introdutions
 
- My name is Adharudin you call me luisadha. from West Java, Indonesian. As an Scripter and Android enthusiast, I'm passionate about Tech, I enjoy playing with Android devices, playing doesn't mean gaming here, playing refers to modding, customizing, styling the homescreen, touching up settings or configurations, and etc. As soon as I get a new Android device, the first thing I do is, install the termux app and root the device if I want to.
+ My name is Adharudin you can call me luisadha. from West Java, Indonesian. As an Scripter and Android enthusiast, I'm passionate about Tech, I enjoy playing with Android devices, playing doesn't mean gaming here, playing refers to modding, customizing, styling the homescreen, touching up settings or configurations, and etc. As soon as I get a new Android device, the first thing I do is, install the termux app and root the device if I want to.
  
  I'm always eager to learn new things and meet new people. Looking forward to connecting with you!"
 <!-- Also a Linux enthusiast who has a passion for software development especially free software.
