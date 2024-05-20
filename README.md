@@ -103,6 +103,11 @@ print(json.dumps(me.to_dict(), indent=2))
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 -->
 
+# 🗾 My Waifu
+![Mikasa_Mikoto](https://github.com/archanaberry/Anime-Girls-Holding-Programming-Books/blob/master/Shell/Misaka_Mikoto_Shell_Scripting.png)
+![Nijika_Ijichi](https://raw.githubusercontent.com/archanaberry/Anime-Girls-Holding-Programming-Books/master/Python/Nijika_Ijichi_Think_Python.png)
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=luisadha&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=luisadha&theme=blueberry&hide_border=false)<br/>
