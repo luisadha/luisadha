@@ -124,8 +124,11 @@ print(json.dumps(me.to_dict(), indent=2))
 
 [![](https://visitcount.itsvg.in/api?id=luisadha&icon=9&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/luisadha) 
+## 💰 Support my work by Donating
+ 
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/luisadha) 
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/luisadha01)
+
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
