@@ -107,29 +107,33 @@ print(json.dumps(me.to_dict(), indent=2))
 ![Nijika_Ijichi](https://raw.githubusercontent.com/archanaberry/Anime-Girls-Holding-Programming-Books/master/Python/Nijika_Ijichi_Think_Python.png)
 -->
 
-# 📊 GitHub Stats:
+
+<a href="https://github.com/luisadha/luisadha" title="Go to GitHub repo"><img src="https://img.shields.io/static/v1?label=luisadha&message=luisadha&color=blue&logo=github" alt="luisadha - luisadha"></a>
+<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=luisadha&amp;icon=9&amp;color=0" alt="   "></a> 
+
 ![](https://github-readme-stats.vercel.app/api?username=luisadha&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=luisadha&theme=blueberry&hide_border=false)<br/>
+
+<a href="https://github.com/luisadha/luisadha/releases/"><img src="https://img.shields.io/github/release/luisadha/luisadha?include_prereleases=&sort=semver&color=blue" alt="GitHub release"></a>
+<!--
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=luisadha&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=luisadha&theme=discord&no-frame=false&no-bg=false&margin-w=4)
-<!--
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 -->
-
-[![](https://visitcount.itsvg.in/api?id=luisadha&icon=9&color=0)](https://visitcount.itsvg.in)
-
+<!--
 ## 💰 Support my work by Donating
  
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/luisadha) 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/luisadha01)
 
-
+-->
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
 
