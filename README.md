@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 ## 🙋‍♂️ Introdutions
 
  My name is Adharudin you can call me luisadha. from West Java, Indonesian. As an Scripter and Android enthusiast, I'm passionate about Tech, I enjoy playing with Android devices, playing doesn't mean gaming here, playing refers to modding, customizing, styling the homescreen, touching up settings or configurations, and etc. As soon as I get a new Android device, the first thing I do is, install the termux app and root the device if I want to.
@@ -21,7 +20,7 @@ Here are some ideas to get you started:
 -->
 <!--
 Moto: "I see privacy as a key pillar in today's technological advancements, allowing us to browse the digital world safely and worry-free."
--->
+
 
 I am currently maintaining a repo
 - mana
@@ -101,12 +100,12 @@ print(json.dumps(me.to_dict(), indent=2))
 
 ## Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
--->
+
 
 ## 🗾 My Waifu
 ![Mikasa_Mikoto](https://github.com/archanaberry/Anime-Girls-Holding-Programming-Books/blob/master/Shell/Misaka_Mikoto_Shell_Scripting.png)
 ![Nijika_Ijichi](https://raw.githubusercontent.com/archanaberry/Anime-Girls-Holding-Programming-Books/master/Python/Nijika_Ijichi_Think_Python.png)
-
+-->
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=luisadha&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -115,14 +114,14 @@ print(json.dumps(me.to_dict(), indent=2))
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=luisadha&theme=discord&no-frame=false&no-bg=false&margin-w=4)
-
+<!--
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+-->
 
----
 [![](https://visitcount.itsvg.in/api?id=luisadha&icon=9&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
@@ -142,9 +141,8 @@ git clone https://github.com/luisadha/luisadha
 cd ~/luisadha
 
 And git clone all repos owned by user luisadha in this directory
--->
 
 Also visit
 
 [![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white)](https://codeberg.org/luisadha/luisadha/)
-
+-->
