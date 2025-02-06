@@ -109,6 +109,7 @@ print(json.dumps(me.to_dict(), indent=2))
 
 <h2 align="center">
 <a href="https://github.com/luisadha/luisadha" title="Go to GitHub repo"><img src="https://img.shields.io/static/v1?label=luisadha&message=luisadha&color=blue&logo=github" alt="luisadha - luisadha"></a>
+<a href="https://raw.githubusercontent.com/badges/shields/master/readme-logo.svg"><img src="https://raw.githubusercontent.com/badges/shields/master/readme-logo.svg" alt="shield.io"></a>
 <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=luisadha&amp;icon=9&amp;color=0" alt="   "></a> 
 <a href="https://github.com/luisadha/luisadha/releases/"><img src="https://img.shields.io/github/release/luisadha/luisadha?include_prereleases=&sort=semver&color=blue" alt="GitHub release"></a> </h2>
 
