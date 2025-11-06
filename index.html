@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Drawercli Aurora</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #12121e;
+      color: #f0f0f5;
+      margin: 0;
+      padding: 2rem;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      min-height: 100vh;
+    }
+
+    h1 {
+      margin-bottom: 2rem;
+      font-size: 2rem;
+      text-align: center;
+    }
+
+    .card {
+      background-color: #1e1e2f;
+      color: #f0f0f5;
+      padding: 1.5rem;
+      border-radius: 1rem;
+      box-shadow: 0 8px 20px rgba(0,0,0,0.3);
+      margin: 1rem 0;
+      width: 100%;
+      max-width: 500px;
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    .card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 12px 24px rgba(0,0,0,0.4);
+    }
+
+    .card h2 {
+      margin-bottom: 0.5rem;
+      font-size: 1.5rem;
+    }
+
+    .card p {
+      font-size: 1rem;
+      line-height: 1.6;
+    }
+
+    .get-started {
+      display: inline-block;
+      margin-top: 2rem;
+      padding: 0.75rem 2rem;
+      background-color: #4f46e5;
+      color: #fff;
+      font-size: 1rem;
+      font-weight: bold;
+      border-radius: 0.75rem;
+      text-decoration: none;
+      transition: background-color 0.2s ease, transform 0.2s ease;
+    }
+
+    .get-started:hover {
+      background-color: #6366f1;
+      transform: translateY(-2px);
+    }
+  </style>
+</head>
+<body>
+  <h1 align="center">Drawercli Aurora</h1>
+  <h1 align="center">This script is designed for Termux and Termux:Widget to display the list of user applications, so they can be launch too</h1>
+
+  <div class="card">
+    <h2>Compatible with the Latest Android</h2>
+    <p>This project is designed to stay relevant on the latest Android versions and has currently been tested on Android 13.</p>
+  </div>
+
+  <div class="card">
+    <h2>POSIX-Compliant</h2>
+    <p>Scripts are made to work seamlessly for users on custom shells as well as their default shell.</p>
+  </div>
+
+  <div class="card">
+    <h2>Flexibility</h2>
+    <p>Documentation is accessible even with limited connectivity, thanks to PWA technology.</p>
+  </div>
+
+  <button class="get-started" onclick="getStarted()">Get Started</button>
+
+  <script>
+    function getStarted() {
+      // Ganti URL ini sesuai halaman yang dituju
+      const url = "https://example.com/get-started";
+      window.location.href = url;
+    }
+  </script>
+</body>
+</html>
