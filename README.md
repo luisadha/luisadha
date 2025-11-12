@@ -1,11 +1,5 @@
-<!-- Centered navigation links -->
-<div style="text-align: center; font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; font-size: 0.95rem;">
-  <a href="https://luisadha.github.io/luisadha" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit; padding: 0 0.35rem;">Website</a>
-  <span style="color: #888;">•</span>
-  <a href="https://luisadha.github.io/drawercli-aurora" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit; padding: 0 0.35rem;">How to install</a>
-  <span style="color: #888;">•</span>
-  <a href="https://github.com/luisadha/drawercli-aurora" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit; padding: 0 0.35rem;">Repository</a>
-</div>
+
+
 <div align="center">
 	<br>
 	<a href="https://github.com/luisadha/luisadha/blame/main/header.svg">
@@ -19,7 +13,14 @@
 <br>
 <br>
 
-
+<!-- Centered navigation links -->
+<div style="text-align: center; font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; font-size: 0.95rem;">
+  <a href="https://luisadha.github.io/luisadha" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit; padding: 0 0.35rem;">Website</a>
+  <span style="color: #888;">•</span>
+  <a href="https://luisadha.github.io/drawercli-aurora" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit; padding: 0 0.35rem;">How to install</a>
+  <span style="color: #888;">•</span>
+  <a href="https://github.com/luisadha/drawercli-aurora" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit; padding: 0 0.35rem;">Repository</a>
+</div>
 
 
 <!-- ## Drawercli Aurora new realease update ✨
