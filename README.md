@@ -2,7 +2,7 @@
 
 <div align="center">
 	<br>
-	<a href="https://github.com/luisadha/luisadha/blame/4e84178c65ba8b09f4b516a7d06338f3e28b4702/header.svg">
+	<a href="https://github.com/luisadha/drawercli-aurora">
 		<picture>
 		  <source media="(min-width: 720px)" srcset="header.svg">
 		  <img src="header-mobile.svg" width="800" height="400" alt="Click to see more">
