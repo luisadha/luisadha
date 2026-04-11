@@ -15,7 +15,7 @@
   <!-- Teks overlay di tengah gambar -->
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
               color: white; font-size: 2rem; font-weight: bold; text-shadow: 2px 2px 5px rgba(0,0,0,0.6);">
-      <a href="https://luisadha.github.io/luisadha" target="_blank">Website</a>
+      <a href="https://drawercli.eu.cc" target="_blank">Website</a>
 	    <span style="color: #888;">•</span>
 	  <a href="https://luisadha.github.io/drawercli-aurora" target="_blank">Overview</a>
 	    <span style="color: #888;">•</span>
