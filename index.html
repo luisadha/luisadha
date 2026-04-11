@@ -13,7 +13,7 @@
       color: #f0f0f5;
     }
 
-    /* HERO SECTION (STARSHIP STYLE) */
+    /* HERO SECTION */
     .hero {
       display: flex;
       align-items: center;
@@ -27,7 +27,7 @@
       max-width: 520px;
     }
 
-    .text h1 {
+    .text h2 {
       font-size: 2.5rem;
       margin-bottom: 1rem;
     }
@@ -65,7 +65,7 @@
       transform: translateY(-2px);
     }
 
-    /* CARDS SECTION */
+    /* FEATURES */
     .container {
       padding: 40px 80px;
       display: flex;
@@ -99,6 +99,37 @@
       line-height: 1.6;
       opacity: 0.9;
     }
+
+    /* FOOTER */
+    .footer {
+      text-align: center;
+      padding: 30px 20px;
+      margin-top: 40px;
+      font-size: 0.9rem;
+      opacity: 0.7;
+      border-top: 1px solid rgba(255,255,255,0.1);
+    }
+
+    /* RESPONSIVE */
+    @media (max-width: 768px) {
+      .hero {
+        padding: 40px 20px;
+        text-align: center;
+        justify-content: center;
+      }
+
+      .text h2 {
+        font-size: 2rem;
+      }
+
+      .container {
+        padding: 20px;
+      }
+
+      .video {
+        width: 100%;
+      }
+    }
   </style>
 </head>
 
@@ -108,7 +139,7 @@
   <section class="hero">
 
     <div class="text">
-      <h1>Drawercli Aurora</h1>
+      <h2>Drawercli Aurora</h2>
 
       <p class="tagline">
         This script is designed for Termux and Termux:Widget to display
@@ -147,10 +178,17 @@
 
   </section>
 
+  <!-- FOOTER -->
+  <footer class="footer">
+    <p>© <span id="year"></span> Drawercli Aurora. All rights reserved.</p>
+  </footer>
+
   <script>
     function getStarted() {
       window.location.href = "https://luisadha.github.io/drawercli-aurora";
     }
+
+    document.getElementById("year").textContent = new Date().getFullYear();
   </script>
 
 </body>
