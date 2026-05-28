@@ -1,3 +1,4 @@
+# Pinned repository
 <div align="right" style="position: relative; display: inline-block; font-family: 'Courier New', monospace; font-size: 18px; color: green;">
     <a href="https://github.com/sindresorhus/css-in-readme-like-wat" style="color: inherit; text-decoration: none;">
         Create your own advertisement
@@ -22,3 +23,13 @@
 	  <a href="https://github.com/luisadha/drawercli-aurora" target="_blank">Source code</a>
   </div>
 </div>
+
+# Star History
+
+<a href="https://www.star-history.com/?repos=luisadha%2Fdrawercli-aurora&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=luisadha/drawercli-aurora&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=luisadha/drawercli-aurora&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=luisadha/drawercli-aurora&type=date&legend=top-left" />
+ </picture>
+</a>
