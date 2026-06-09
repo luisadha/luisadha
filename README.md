@@ -1,4 +1,3 @@
-
 <div align="right" style="position: relative; display: inline-block; font-family: 'Courier New', monospace; font-size: 18px; color: green;">
     <a href="https://github.com/sindresorhus/css-in-readme-like-wat" style="color: inherit; text-decoration: none;">
         Create your own advertisement
